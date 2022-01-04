@@ -1,2 +1,5 @@
-# java2asm
-Java to assembly code using gnu compiler java the gcj
+# txt2rtf
+
+convert text into rtf files the text file conot have symbolic chars /\ {}
+replace it using a text editor
+
